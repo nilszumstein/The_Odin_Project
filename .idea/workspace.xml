@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="sacehn" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="sachen">
+      <change afterPath="$PROJECT_DIR$/Immages-Links/Images/duck.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immages-Links/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immages-Links/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Boilerplate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-Boilerplate/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,10 +58,17 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Immages-Links\Images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="The_Odin_Project" />
@@ -93,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Readme" />
     <MESSAGE value="sacehn" />
-    <option name="LAST_COMMIT_MESSAGE" value="sacehn" />
+    <MESSAGE value="sachen" />
+    <option name="LAST_COMMIT_MESSAGE" value="sachen" />
   </component>
 </project>
