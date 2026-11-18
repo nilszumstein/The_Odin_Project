@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="sachen">
-      <change afterPath="$PROJECT_DIR$/Immages-Links/Images/duck.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Immages-Links/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Immages-Links/index.html" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="sachen weiteramcehn, von the odin project">
+      <change afterPath="$PROJECT_DIR$/Recipes/Immages/SpagettiCarbonaras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/Immages/lasagne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/Recapies/Lasagne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/Recapies/SpagettiCarbonara.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML-Boilerplate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-Boilerplate/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nilszumstein"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nilszumstein&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nilszumstein/The_Odin_Project.git",
-    "accountId": "e311535c-ca9b-4840-9da2-9808bdc1c47e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nilszumstein/The_Odin_Project.git&quot;,
+    &quot;accountId&quot;: &quot;e311535c-ca9b-4840-9da2-9808bdc1c47e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -53,10 +54,12 @@
     "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dev/IdeaProjects/The_Odin_Project/Recipes/Immages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +68,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Recipes\Immages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Immages-Links\Images" />
     </key>
@@ -107,6 +113,7 @@
     <MESSAGE value="Readme" />
     <MESSAGE value="sacehn" />
     <MESSAGE value="sachen" />
-    <option name="LAST_COMMIT_MESSAGE" value="sachen" />
+    <MESSAGE value="sachen weiteramcehn, von the odin project" />
+    <option name="LAST_COMMIT_MESSAGE" value="sachen weiteramcehn, von the odin project" />
   </component>
 </project>
