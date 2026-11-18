@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="sachen weiteramcehn, von the odin project">
-      <change afterPath="$PROJECT_DIR$/Recipes/Immages/SpagettiCarbonaras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recipes/Immages/lasagne.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recipes/Recapies/Lasagne.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recipes/Recapies/SpagettiCarbonara.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recipes/index.html" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Kleines Mini Zwischen Projekt, von The odin Project.">
+      <change afterPath="$PROJECT_DIR$/1-margin-padding-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-margin-padding-1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-margin-padding-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-margin-padding-2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FixTheCode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FixTheCode/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheBoxModel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheBoxModel/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,6 +42,10 @@
     &quot;accountId&quot;: &quot;e311535c-ca9b-4840-9da2-9808bdc1c47e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FixTheCode/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LearnCSS/styles.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -59,7 +69,8 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dev/IdeaProjects/The_Odin_Project/Recipes/Immages",
+    "last_opened_file_path": "C:/Users/dev/IdeaProjects/The_Odin_Project",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Recipes\Immages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -114,6 +126,7 @@
     <MESSAGE value="sacehn" />
     <MESSAGE value="sachen" />
     <MESSAGE value="sachen weiteramcehn, von the odin project" />
-    <option name="LAST_COMMIT_MESSAGE" value="sachen weiteramcehn, von the odin project" />
+    <MESSAGE value="Kleines Mini Zwischen Projekt, von The odin Project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kleines Mini Zwischen Projekt, von The odin Project." />
   </component>
 </project>

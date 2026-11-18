@@ -1,0 +1,31 @@
+*{
+    font-size: 20px;
+    margin: 0 auto;
+}
+#div1{
+    background-color: rosybrown;
+    width: 810px;
+    height: 90px;
+    border: 2px solid blue;
+    padding: 10px;
+}
+#platz{
+    height: 20px;
+}
+#div2{
+    background-color: deepskyblue;
+    width: 900px;
+    border: 2px solid darkred;
+}
+#div3{
+    margin: 50px;
+    margin-left: 600px;
+    background-color: burlywood;
+    width: 450px;
+    height: 130px;
+    border: 2px solid red;
+    padding: 10px;
+}
+.text{
+    align-content: center;
+}

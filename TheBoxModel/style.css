@@ -1,0 +1,11 @@
+*{
+    background-color: purple;
+    box-sizing: border-box;
+}
+.padingBoarder{
+    border: 15px solid green;
+    margin: 20px;
+    height: 100px;
+    width: 200px;
+
+}
