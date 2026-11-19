@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex Aufgaben">
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 3">
+      <change afterPath="$PROJECT_DIR$/flex/04/images/barberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/04/images/chilli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/04/images/pepper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/04/images/saffron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/04/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex/03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flex/03/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex/03/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +81,7 @@
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Recipes\Immages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex\04\images" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex\02" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex\01" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project" />
@@ -125,6 +130,7 @@
     <MESSAGE value="Kleines Mini Zwischen Projekt, von The odin Project." />
     <MESSAGE value="The odin Project" />
     <MESSAGE value="Flex Aufgaben" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flex Aufgaben" />
+    <MESSAGE value="Flex 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flex 3" />
   </component>
 </project>
