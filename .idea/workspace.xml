@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 3">
-      <change afterPath="$PROJECT_DIR$/flex/04/images/barberry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/04/images/chilli.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/04/images/pepper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/04/images/saffron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/04/style.css" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 4">
+      <change afterPath="$PROJECT_DIR$/flex/05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/05/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +67,7 @@
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -131,6 +127,7 @@
     <MESSAGE value="The odin Project" />
     <MESSAGE value="Flex Aufgaben" />
     <MESSAGE value="Flex 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flex 3" />
+    <MESSAGE value="Flex 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flex 4" />
   </component>
 </project>
