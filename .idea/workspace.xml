@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="The odin Project">
-      <change afterPath="$PROJECT_DIR$/flex/01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/01/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/02/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/03/style.css" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex Aufgaben">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-margin-padding-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-margin-padding-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-margin-padding-2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-margin-padding-2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flex/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex/03/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flex/03/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +124,7 @@
     <MESSAGE value="sachen weiteramcehn, von the odin project" />
     <MESSAGE value="Kleines Mini Zwischen Projekt, von The odin Project." />
     <MESSAGE value="The odin Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="The odin Project" />
+    <MESSAGE value="Flex Aufgaben" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flex Aufgaben" />
   </component>
 </project>
