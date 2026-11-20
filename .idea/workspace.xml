@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 6">
-      <change afterPath="$PROJECT_DIR$/flex/07/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/07/style.css" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 7">
+      <change afterPath="$PROJECT_DIR$/Landing Page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landing Page/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +131,7 @@
     <MESSAGE value="Flex 4" />
     <MESSAGE value="Flex 5" />
     <MESSAGE value="Flex 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flex 6" />
+    <MESSAGE value="Flex 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flex 7" />
   </component>
 </project>
