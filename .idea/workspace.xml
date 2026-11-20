@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 5">
-      <change afterPath="$PROJECT_DIR$/flex/06/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/06/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flex/06/style.css" afterDir="false" />
+    <list default="true" id="84d73930-20bc-4dc6-8955-a6a271fbfac5" name="Changes" comment="Flex 6">
+      <change afterPath="$PROJECT_DIR$/flex/07/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex/07/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dev/IdeaProjects/The_Odin_Project/flex/06",
+    "last_opened_file_path": "C:/Users/dev/IdeaProjects/The_Odin_Project/flex",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -73,8 +72,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex\06" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex" />
+      <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\flex\06" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project" />
       <recent name="C:\Users\dev\IdeaProjects\The_Odin_Project\Recipes\Immages" />
     </key>
@@ -131,6 +130,7 @@
     <MESSAGE value="Flex 3" />
     <MESSAGE value="Flex 4" />
     <MESSAGE value="Flex 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flex 5" />
+    <MESSAGE value="Flex 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flex 6" />
   </component>
 </project>
